@@ -1,0 +1,8 @@
+Conferir movimento da empresa
+1 - conferência de notas 
+2 - lançamentos dos pagamentos
+3 - conferência dos bancos 
+4 - conferência ds entradas saidas
+5 - conciliação dos fornecedores
+6 - repassar ao coordenador
+
